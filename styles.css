@@ -86,6 +86,9 @@ hr{
      text-align: center;
      padding: 1rem;
  }
+ .colored{
+    color: cyan;
+ }
 
  .attribution a {
      color: hsl(228, 45%, 44%);
